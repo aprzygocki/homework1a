@@ -12,3 +12,4 @@ Process:
 4. Added Alt text for images
 5. Added unique title to html
 6. Ordered css attributes sequentially
+![Screenshot (24).png]
