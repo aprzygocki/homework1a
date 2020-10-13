@@ -1,9 +1,4 @@
-# homework1a
-I hear that creating a README file is important in all work done in development.
-It lets other people understand what I am up to. 
-I hope to master the github repository, master pull and push commands from my terminal,
-become intimately fimiliar with my machine, and refine my own capabilities as a full stack web developer.
-Thanks for Reading!
+# Code refactor
 
 Process:
 1. Consolidated html and css classes with the same elements
